@@ -2,11 +2,11 @@ export const siteConfig = {
   name: "Taariq Elliott",
   title: "Full-Stack Software Engineer",
   description: "Portfolio website of Taariq Elliott",
-  accentColor: "#1d4ed8",
+  accentColor: "#4EA300",
   social: {
     email: "codebytaariq@gmail.com",
     linkedin: "https://linkedin.com/in/taariq-elliott",
-    twitter: "",
+    twitter: "https://taariqelliott.dev",
     github: "https://github.com/taariqelliott",
   },
   aboutMe:
