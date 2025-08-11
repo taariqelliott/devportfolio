@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/taariqelliott",
   },
   aboutMe:
-    "I’m a Full-Stack Software Engineer with experience in JavaScript/TypeScript, Java, Python, and modern frameworks like React, Next.js, SvelteKit & Spring Boot. I’ve built applications ranging from live-streaming platform wrappers to interactive music theory tools, with a focus on delivering impactful, user-friendly experiences. I also bring a creative background as a music educator, which fuels my problem-solving and collaborative approach to software development.",
+    "I’m a Full-Stack Software Engineer with experience in JavaScript/TypeScript, Java, Python, and modern frameworks like React, Next.js, SvelteKit & Spring Boot. I’ve built applications ranging from live-streaming platform wrappers to interactive music theory tools, with a focus on delivering impactful, user-friendly experiences. I also bring a creative background as a music educator/producer, which fuels my problem-solving and collaborative approach to software development.",
   skills: [
     "JavaScript",
     "TypeScript",
