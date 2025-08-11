@@ -45,6 +45,7 @@ export const siteConfig = {
       description:
         "Twitch live-streaming platform wrapper using Next.js, React, and Supabase. Features secure authentication, real-time chat, live updates, and stream management with Supabase.",
       link: "https://www.friquencyradio.com/",
+      image: "/images/friquency.jpeg",
       skills: ["Next.js", "React", "Supabase", "Mantine UI"],
     },
     {
@@ -52,6 +53,7 @@ export const siteConfig = {
       description:
         "Interactive music theory app built with React and Tone.js. Provides real-time visual representations of chords and scales based on user-selected root notes and scale types.",
       link: "https://theorything.vercel.app/",
+      image: "/images/theorything.jpeg",
       skills: ["React", "Tone.js", "JavaScript", "shadcn/ui"],
     },
     {
@@ -59,6 +61,7 @@ export const siteConfig = {
       description:
         "Born from my love of music and nostalgia for the legendary Winamp player, Ugubhu aims to bring back the magic of dedicated music playback and visualizations. Built with Electron, React, and Howler.js, it offers waveform displays via WaveSurfer.js, rich metadata parsing, custom color controls, looping, muting, and precise playback management. Actively developing: local file storage for offline libraries, playlist creation for organizing albums or groups of songs, and a sleeker, more intuitive UI for music lovers.",
       link: "https://github.com/taariqelliott/ugubhu-v1",
+      image: "/images/ugubhu.jpeg",
       skills: [
         "Electron",
         "React",
