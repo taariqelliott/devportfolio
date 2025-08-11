@@ -91,7 +91,7 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "Develop Carolina",
+      school: "Build Carolina",
       degree: "Software Engineering Apprenticeship",
       dateRange: "Jul 2024 - Dec 2024",
       achievements: [
