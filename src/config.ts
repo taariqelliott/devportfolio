@@ -12,9 +12,10 @@ export const siteConfig = {
   aboutMe:
     "I’m a Full-Stack Software Engineer with experience in JavaScript/TypeScript, Java, Python, and modern frameworks like React, Next.js, SvelteKit & Spring Boot. I’ve built applications ranging from live-streaming platform wrappers to interactive music theory tools, with a focus on delivering impactful, user-friendly experiences. I also bring a creative background as a music educator, which fuels my problem-solving and collaborative approach to software development.",
   skills: [
-    "Java",
     "JavaScript",
+    "TypeScript",
     "Python",
+    "Java",
     "HTML",
     "CSS",
     "Spring Boot",
@@ -25,6 +26,7 @@ export const siteConfig = {
     "React.js",
     "Flask",
     "Tailwind CSS",
+    "shadcn/ui",
     "Git",
     "Neo4J",
     "Docker",
@@ -33,6 +35,7 @@ export const siteConfig = {
     "Supabase",
     "MongoDB",
     "PostgreSQL",
+    "SQLite/Better-SQLite3",
     "RESTful API",
     "JIRA",
   ],
