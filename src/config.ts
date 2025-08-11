@@ -40,16 +40,16 @@ export const siteConfig = {
     {
       name: "Friquency Radio",
       description:
-        "Live streaming platform using Next.js, React, Supabase, and Twitch integration. Features secure authentication, real-time chat, and stream management with Mantine UI.",
+        "Twitch live-streaming platform wrapper using Next.js, React, and Supabase. Features secure authentication, real-time chat, live updates, and stream management with Supabase.",
       link: "https://www.friquencyradio.com/",
-      skills: ["Next.js", "React", "Supabase", "Twitch API", "Mantine UI"],
+      skills: ["Next.js", "React", "Supabase", "Mantine UI"],
     },
     {
       name: "Theory Thing",
       description:
         "Interactive music theory app built with React and Tone.js. Provides real-time visual representations of chords and scales based on user-selected root notes and scale types.",
       link: "https://theorything.vercel.app/",
-      skills: ["React.js", "Tone.js", "JavaScript"],
+      skills: ["React", "Tone.js", "JavaScript", "shadcn/ui"],
     },
     {
       name: "Ugubhu",
@@ -58,12 +58,13 @@ export const siteConfig = {
       link: "https://github.com/taariqelliott/ugubhu-v1",
       skills: [
         "Electron",
-        "React.js",
+        "React",
         "TypeScript",
         "Howler.js",
         "WaveSurfer.js",
         "music-metadata",
-        "Tailwind CSS",
+        "HeroUI",
+        "Tailwind",
       ],
     },
   ],
