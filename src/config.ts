@@ -1,8 +1,8 @@
 export const siteConfig = {
   name: "Taariq Elliott",
-  title: "Full-Stack Software Engineer",
+  title: "Software Engineer & Creative Technologist",
   description: "Portfolio website of Taariq Elliott",
-  accentColor: "#72B01D",
+  accentColor: "#f29500",
   social: {
     email: "codebytaariq@gmail.com",
     linkedin: "https://linkedin.com/in/taariq-elliott",
@@ -24,6 +24,11 @@ export const siteConfig = {
     "Node.js",
     "Express",
     "React.js",
+    "React Native",
+    "Three.js",
+    "React Three Fiber",
+    "p5.js",
+    "Blender",
     "Flask",
     "Tailwind CSS",
     "shadcn/ui",
@@ -43,7 +48,7 @@ export const siteConfig = {
     {
       name: "Friquency Radio",
       description:
-        "Twitch live-streaming platform wrapper using Next.js, React, and Supabase. Features secure authentication, real-time chat, live updates, and stream management with Supabase.",
+        "Built and deployed a public social listening platform with Next.js, React, TypeScript, and Supabase, featuring media uploads, real-time chat, and interactive rooms.",
       link: "https://www.friquencyradio.com/",
       image: "/images/friquency.jpeg",
       skills: ["Next.js", "React", "Supabase", "Mantine UI"],
@@ -55,6 +60,20 @@ export const siteConfig = {
       link: "https://theorything.vercel.app/",
       image: "/images/theorything.jpeg",
       skills: ["React", "Tone.js", "JavaScript", "shadcn/ui"],
+    },
+    {
+      name: "Chromaphone",
+      description:
+        "Built an interactive audiovisual instrument with React, Three.js, React Three Fiber, and Tone.js that lets users play a 25-note 3D keyboard with both mouse and keyboard input. Combined sampled audio, animated key interactions, and real-time visual effects to create an immersive sound-and-color experience in the browser.",
+      link: "https://chromaphone.onrender.com/",
+      image: "/images/chromaphone.jpeg",
+      skills: [
+        "React",
+        "TypeScript",
+        "Three.js",
+        "React Three Fiber",
+        "Tone.js",
+      ],
     },
     {
       name: "Ugubhu",
@@ -75,6 +94,16 @@ export const siteConfig = {
     },
   ],
   experience: [
+    {
+      company: "The Marcy Lab",
+      title: "Mentor",
+      dateRange: "Jan 2026 - Present",
+      bullets: [
+        "Mentoring an early-career engineer in creative coding with p5.js and Three.js, with a focus on generative art, interactive visuals, and animation.",
+        "Supporting portfolio development through code reviews, pair programming, project feedback, and practical workflows that simulate real engineering collaboration.",
+        "Coaching on broader software engineering fundamentals, including Git branches, communication, resume and LinkedIn reviews, networking, and choosing tech stacks that align with personal interests and long-term career goals.",
+      ],
+    },
     {
       company: "Booz Allen Hamilton",
       title: "Software Engineering Intern",
