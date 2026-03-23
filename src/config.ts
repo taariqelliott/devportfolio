@@ -116,7 +116,7 @@ export const siteConfig = {
     },
     {
       company: "Hip-Hop For Change",
-      title: "Music Educator & Program Director",
+      title: "Music Educator & Program Instructor",
       dateRange: "Aug 2022 - Feb 2024",
       bullets: [
         "Designed and delivered Hip-Hop music education programs across Los Angeles County.",
