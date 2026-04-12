@@ -27,6 +27,7 @@ export const siteConfig = {
     "React Native",
     "Three.js",
     "React Three Fiber",
+    "Electron",
     "p5.js",
     "Blender",
     "Flask",
@@ -54,25 +55,21 @@ export const siteConfig = {
       skills: ["Next.js", "React", "Supabase", "Mantine UI"],
     },
     {
-      name: "Theory Thing",
+      name: "CrateKeeper",
       description:
-        "Interactive music theory app built with React and Tone.js. Provides real-time visual representations of chords and scales based on user-selected root notes and scale types.",
-      link: "https://theorything.vercel.app/",
-      image: "/images/theorything.jpeg",
-      skills: ["React", "Tone.js", "JavaScript", "shadcn/ui"],
-    },
-    {
-      name: "Chromaphone",
-      description:
-        "Built an interactive audiovisual instrument with React, Three.js, React Three Fiber, and Tone.js that lets users play a 25-note 3D keyboard with both mouse and keyboard input. Combined sampled audio, animated key interactions, and real-time visual effects to create an immersive sound-and-color experience in the browser.",
-      link: "https://chromaphone.onrender.com/",
-      image: "/images/chromaphone.jpeg",
+        "Full-stack vinyl record collection manager with a FastAPI/PostgreSQL backend and Next.js frontend. Features album artwork uploads via Cloudinary, and search/filter by artist, genre, label, format, and condition.",
+      link: "https://cratekeeper.vercel.app/",
+      image: "/images/cratekeeper.jpeg",
       skills: [
+        "Next.js",
         "React",
         "TypeScript",
-        "Three.js",
-        "React Three Fiber",
-        "Tone.js",
+        "FastAPI",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "Cloudinary",
+        "Tailwind CSS",
+        "shadcn/ui",
       ],
     },
     {
@@ -91,6 +88,28 @@ export const siteConfig = {
         "HeroUI",
         "Tailwind",
       ],
+    },
+    {
+      name: "Chromaphone",
+      description:
+        "Built an interactive audiovisual instrument with React, Three.js, React Three Fiber, and Tone.js that lets users play a 25-note 3D keyboard with both mouse and keyboard input. Combined sampled audio, animated key interactions, and real-time visual effects to create an immersive sound-and-color experience in the browser.",
+      link: "https://chromaphone.onrender.com/",
+      image: "/images/chromaphone.jpeg",
+      skills: [
+        "React",
+        "TypeScript",
+        "Three.js",
+        "React Three Fiber",
+        "Tone.js",
+      ],
+    },
+    {
+      name: "Theory Thing",
+      description:
+        "Interactive music theory app built with React and Tone.js. Provides real-time visual representations of chords and scales based on user-selected root notes and scale types.",
+      link: "https://theorything.vercel.app/",
+      image: "/images/theorything.jpeg",
+      skills: ["React", "Tone.js", "JavaScript", "shadcn/ui"],
     },
   ],
   experience: [
